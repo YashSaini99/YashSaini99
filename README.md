@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YashSaini99&label=Profile%20views&color=0e75b6&style=flat" alt="YashSaini99" /> </p>
 
-- 🌱<img src="https://img.icons8.com/office/16/4a90e2/goal--v2.png" width="15" height="15"/> I’m currently learning **JavaScript**
+- 📝 I’m currently learning **JavaScript**
 
-- 📫 Contact me on **[Discord](https://discord.gg/eJEBv7mRuJ)**
+- 📩 Contact me on **[Discord](https://discord.gg/eJEBv7mRuJ)**
 
 - ⚡ Fun fact: **No Fact 😂**
 
