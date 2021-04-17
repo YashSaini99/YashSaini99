@@ -20,7 +20,7 @@
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"  width="40" height="40"/>
 <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-### <img src="https://img.icons8.com/fluent/48/ffffff/github.png" width="25" height= "25"> GitHub stats:
+### <img alighn="bottom" src="https://img.icons8.com/fluent/48/ffffff/github.png" width="25" height= "25"> GitHub stats:
 
 <a href="https://wakatime.com/@Diegxs"><img align="center" src="https://github-readme-stats.vercel.app/api?username=YashSaini99&show_icons=true&theme=dark" height="200"></a>
 
