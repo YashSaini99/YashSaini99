@@ -21,7 +21,7 @@
 
 <h2 align="center">🐦 Github Statistics </h2>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YashSaini99&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=FFFF00">
+<img src="https://github-readme-stats.vercel.app/api?username=YashSaini99&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=FFFFFF">
 </p>
  
  
