@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash</h1>
-<h3 align="center">I am a Student and a self taught developer from India <img src="https://img.icons8.com/windows/32/000000/developer.png"/></h3>
+<h3 align="center">I am a Student and a self taught developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YashSaini99&label=Profile%20views&color=0e75b6&style=flat" alt="YashSaini99" /> </p>
 
