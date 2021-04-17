@@ -19,9 +19,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashsaini99&show_icons=true&locale=en" alt="yashsaini99" /></p>
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashsaini99&" alt="yashsaini99" /></p>
 
 ### <img src= "https://image.flaticon.com/icons/png/512/25/25231.png" height= "19"> GitHub stats:
