@@ -7,7 +7,7 @@
 
 - 📫 Contact me on **[Discord](https://discord.gg/eJEBv7mRuJ)**
 
-- ⚡ Fun fact **No Fact 😂**
+- ⚡ Fun fact: **No Fact 😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
