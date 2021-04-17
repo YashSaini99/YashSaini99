@@ -14,7 +14,7 @@
  </p>
  
  <h3 align="left">Languages and Tools:</h3>
- alt="dotnet" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
+ </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
  
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YashSaini99" alt="Yash" /> 
