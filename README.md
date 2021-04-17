@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 📫 How to reach me **[Discord](https://discord.gg/eJEBv7mRuJ)**
+- 📫 Contact me on **[Discord](https://discord.gg/eJEBv7mRuJ)**
 
 - ⚡ Fun fact **No Fact 😂**
 
