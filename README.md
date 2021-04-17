@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/https://discord.gg/eJEBv7mRuJ" target="blank"><img src="https://img.icons8.com/color/48/000000/discord-new-logo.png" width="40" height="40"/></a>
-<a href="https://dev.to/@yashsaini" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="@yashsaini" height="30" width="40" /></a>
+<a href="https://dev.to/@yashsaini" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/devpost.png" alt="@yashsaini" height="30" width="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
