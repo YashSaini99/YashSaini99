@@ -3,10 +3,10 @@
 <p align="center">
   <samp>
   <a href="https://discord.gg/eJEBv7mRuJ">
-  <img  alt="Yash's Discord Server" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  <img  alt="Yash's Discord Server" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" height="30"/>
 </a>
 <a href="https://github.com/YashSaini99">
-  <img  alt="Yash's Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img  alt="Yash's Github" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" height="30"/>
 </a>
   </samp>
   
