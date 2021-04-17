@@ -1,4 +1,4 @@
-<h4 align="center"> Hi 👋 there, I'm Yash</h4>
+<h1 align="center"> Hi 👋 there, I'm Yash</h1>
 
 <p align="center">
   <samp>
