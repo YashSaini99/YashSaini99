@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 📫 Contact me on <a href="https://discord.gg/https://discord.gg/eJEBv7mRuJ" target="blank"><img src="https://img.icons8.com/color/48/000000/discord-new-logo.png" width="20" height="20"/></a>**[Discord](https://discord.gg/eJEBv7mRuJ)**
+- 📫 Contact me on <a href="https://discord.gg/https://discord.gg/eJEBv7mRuJ" target="blank"><img src="https://img.icons8.com/color/48/000000/discord-new-logo.png" width="20" height="30"/></a>**[Discord](https://discord.gg/eJEBv7mRuJ)**
 
 - ⚡ Fun fact: **No Fact 😂**
 
