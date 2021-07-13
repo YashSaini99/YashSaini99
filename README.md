@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact: **No Fact 😂**
 
-- 🌐 Visit Website For More Info [**yash99**](https://yashsaini99.github.io/yash99/) 
+- 🌐 Visit Website For More Info [**yash99**](https://yash99.netlify.app/) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
