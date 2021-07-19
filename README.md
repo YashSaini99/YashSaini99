@@ -11,13 +11,13 @@
 
 - 🌐 Visit Website For More Info [**yash99**](https://yash99.netlify.app/) 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🚥   Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/https://discord.gg/eJEBv7mRuJ" target="blank"><img src="https://img.icons8.com/color/48/000000/discord-new-logo.png" width="40" height="40"/></a>
 <a href="https://dev.to/@yashsaini" target="blank"><img src="https://img.icons8.com/color/48/000000/devpost.png" alt="@yashsaini" height="40" width="40"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">🛠   Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"  width="40" height="40"/>
     <a href="https://code.visualstudio.com/insiders/" target="_blank"><img src="https://cdn.discordapp.com/attachments/714766348588417055/865820545730871316/384px-Visual_Studio_Code_Insiders_1.36_icon.svg.png"  width="40" height="40"/>
