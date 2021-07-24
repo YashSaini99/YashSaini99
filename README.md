@@ -11,6 +11,8 @@
 
 - 🌐 Visit Website For More Info [**yash99**](https://yash99.netlify.app/) 
 
+- **There are more than 10 repositories in this account but most of them are private**
+
 <h3 align="left">🚥      Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/https://discord.gg/eJEBv7mRuJ" target="blank"><img src="https://img.icons8.com/color/48/000000/discord-new-logo.png" width="40" height="40"/></a>
