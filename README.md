@@ -12,15 +12,13 @@
 - 🌐 Visit Website For More Info [**yash99**](https://yash99.netlify.app/) 
 
 - **There are more than 10 repositories in this account but most of them are private** 
-
+---
 
 ### 🚥      Connect with me:
 <p align="left">
 <a href="https://discord.gg/https://discord.gg/eJEBv7mRuJ" target="blank"><img src="https://img.icons8.com/color/48/000000/discord-new-logo.png" width="40" height="40"/></a>
 <a href="https://dev.to/@yashsaini" target="blank"><img src="https://img.icons8.com/color/48/000000/devpost.png" alt="@yashsaini" height="40" width="40"/></a>
 </p>
-
----
 
 <h3 align="left">🛠      Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
