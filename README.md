@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact: **No Fact 😂**
 
-- 🌐 Visit Website For More Info [**yash99**](https://yash99.me/) 
+- 🌐 Visit Website For More Info [**yash99.me**](https://yash99.me/) 
 
 - **There are more than 10 repositories in this account but most of them are private** 
 ---
