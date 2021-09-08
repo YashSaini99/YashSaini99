@@ -1,6 +1,10 @@
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yash</h1>
+ <h1 align="center">
+        <samp>&gt; Hello World!, I am
+                <b><a target="_blank" href="https://yash99.me/">Yash</a></b>
+        </samp>
+</h1>
 <h3 align="center">A Student and a Developer</h3>
 
 
