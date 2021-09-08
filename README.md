@@ -12,7 +12,7 @@
 
 - 📝 I’m currently learning **JavaScript**
 - 📩 Contact me on **[Discord](https://discord.gg/eJEBv7mRuJ)**
-- ⚡ Fun fact: **No Fact 😂**
+- ⚡ Fun fact: I love to walk Alone
 - 🌐 Visit Website For More Info [**yash99.me**](https://yash99.me/) 
 - 👨🏼‍🎓 I am Currently a Student and Learning New things
 
