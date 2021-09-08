@@ -11,14 +11,10 @@
 ## 🙋‍♂️ About Me
 
 - 📝 I’m currently learning **JavaScript**
-
 - 📩 Contact me on **[Discord](https://discord.gg/eJEBv7mRuJ)**
-
 - ⚡ Fun fact: **No Fact 😂**
-
 - 🌐 Visit Website For More Info [**yash99.me**](https://yash99.me/) 
-
-- There are more than 10 repositories in this account but most of them are private
+- 👨🏼‍🎓 I am Currently a Student and Learning New things
 
 ## 🚀 Languages and Tools:
 
@@ -73,9 +69,9 @@
 ## ⚡Connect with me:
 <p align="left">
 
-<a href = "https://twitter.com/YashSainii99"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href="https://dev.to/@yashsaini" target="blank"><img src="https://img.icons8.com/color/48/000000/devpost.png" alt="@yashsaini" height="50" width="50"/></a>
-<a href="https://discord.gg/https://discord.gg/eJEBv7mRuJ" target="blank"><img src="https://cdn.discordapp.com/emojis/874682057937260544.png?v=1" width="50" height="50"/></a>
+<a href = "https://twitter.com/YashSainii99"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" height="40" width="40"/></a>
+<a href="https://dev.to/@yashsaini" target="blank"><img src="https://img.icons8.com/color/48/000000/devpost.png" alt="@yashsaini" height="40" width="40"/></a>
+<a href="https://discord.gg/https://discord.gg/eJEBv7mRuJ" target="blank"><img src="https://cdn.discordapp.com/emojis/874682057937260544.png?v=1" width="40" height="40"/></a>
 </p>
 
 ## 🔥Views and Followers
