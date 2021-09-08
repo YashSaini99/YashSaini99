@@ -9,7 +9,7 @@
 
 
 ## 🙋‍♂️ About Me
-```
+
 - 📝 I’m currently learning **JavaScript**
 
 - 📩 Contact me on **[Discord](https://discord.gg/eJEBv7mRuJ)**
@@ -19,7 +19,7 @@
 - 🌐 Visit Website For More Info [**yash99.me**](https://yash99.me/) 
 
 - There are more than 10 repositories in this account but most of them are private
-```
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
