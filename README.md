@@ -1,8 +1,11 @@
-<h1 align="center">Hi 👋, I'm Yash</h1>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=YashSaini99&label=Profile%20views&color=0e75b6&style=flat" alt="YashSaini99" /> </p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yash</h1>
+<h3 align="center">A Student and a Developer</h3>
 
+
+## 🙋‍♂️ About Me
+```
 - 📝 I’m currently learning **JavaScript**
 
 - 📩 Contact me on **[Discord](https://discord.gg/eJEBv7mRuJ)**
@@ -11,28 +14,51 @@
 
 - 🌐 Visit Website For More Info [**yash99.me**](https://yash99.me/) 
 
-- **There are more than 10 repositories in this account but most of them are private** 
+- There are more than 10 repositories in this account but most of them are private
+```
+## 🚀 Languages and Tools:
 
----
-
-### Connect with me:
-<p align="left">
-<a href="https://discord.gg/https://discord.gg/eJEBv7mRuJ" target="blank"><img src="https://img.icons8.com/color/48/000000/discord-new-logo.png" width="40" height="40"/></a>
-<a href="https://dev.to/@yashsaini" target="blank"><img src="https://img.icons8.com/color/48/000000/devpost.png" alt="@yashsaini" height="40" width="40"/></a>
+<p align="left"> 
+    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
+    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
+    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
+    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
 </p>
 
-### Languages and Tools:
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35"/> </a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.icons8.com/color/50/000000/visual-studio-code-2019.png"  width="35" height="35"/>
-    <a href="https://code.visualstudio.com/insiders/" target="_blank"><img src="https://cdn.discordapp.com/attachments/714766348588417055/865820545730871316/384px-Visual_Studio_Code_Insiders_1.36_icon.svg.png"  width="35" height="35"/>
-<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="35" height="35"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="35"/> </a> </p>
+<br/>
 
----
+<p align="center">
+    <a href="https://github.com/YashSaini99/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Yash's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=YashSaini99&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 
-### <img align="left" src="https://cdn.discordapp.com/emojis/816593422906425354.png?v=1" width="25" height= "25">GitHub stats:
+## 📊 My Github Stats
 
-<a href="https://wakatime.com/@Diegxs"><img align="center" src="https://github-readme-stats.vercel.app/api?username=YashSaini99&show_icons=true&theme=dark" height="200"></a>
+  <br/>
+    <a href="https://github.com/YashSaini99/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YashSaini99&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/YashSaini99/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashSaini99&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+ 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=YashSaini99&show_icons=true&theme=dark" alt="YashSaini99" /></p>
+<br/>
+<br/>
 
+## Connect with me:
+<p align="left">
 
+<a href = "https://twitter.com/YashSainii99"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href="https://dev.to/@yashsaini" target="blank"><img src="https://img.icons8.com/color/48/000000/devpost.png" alt="@yashsaini" height="50" width="50"/></a>
+<a href="https://discord.gg/https://discord.gg/eJEBv7mRuJ" target="blank"><img src="https://cdn.discordapp.com/emojis/874682057937260544.png?v=1" width="50" height="50"/></a>
+</p>
+
+## Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=YashSaini99">
+</a>
+<a href="https://github.com/YashSaini99?tab=followers"><img src="https://img.shields.io/github/followers/YashSaini99?label=Followers&style=social" alt="GitHub Badge"></a>
