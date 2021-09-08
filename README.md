@@ -41,8 +41,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/YashSaini99/github-readme-stats"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YashSaini99&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/YashSaini99/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashSaini99&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/YashSaini99/github-readme-stats"><img alt="Yash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YashSaini99&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/YashSaini99/github-readme-stats"><img alt="Yash's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashSaini99&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
  
 
