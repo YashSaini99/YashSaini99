@@ -13,7 +13,7 @@
 - 📝 I’m currently learning **JavaScript**
 - 📩 Contact me on **[Discord](https://discord.gg/eJEBv7mRuJ)**
 - ⚡ Fun fact: I Code
-- 🌐 Visit Website For More Info [**yash99.me**](https://yash99.me/) 
+- 🌐 Visit [Website](https://yash99.me/) For More Info
 - 👨🏼‍🎓 I am Currently a Student and Learning New things
 
 ## 🚀 Languages and Tools:
