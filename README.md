@@ -2,7 +2,7 @@
 
  <h1 align="center">
         <samp>&gt; Hello World!, I am
-                <b><a target="_blank" href="https://yash99.me/">Yash</a></b>
+                <b><a target="_blank" href="https://yashhh.netlify.app/">Yash</a></b>
         </samp>
 </h1>
 <h3 align="center">A Student and a Developer</h3>
@@ -13,7 +13,7 @@
 - 📝 I’m currently learning **JavaScript**
 - 📩 Contact me on **[Discord](https://discord.gg/eJEBv7mRuJ)**
 - ⚡ Fun fact: I Code
-- 🌐 Visit **[Website](https://yash99.me/)** For More Info
+- 🌐 Visit **[Website](https://yashhh.netlify.app/)** For More Info
 - 👨🏼‍🎓 I am Currently a Student and Learning New things
 
 ## 🚀 Languages and Tools:
