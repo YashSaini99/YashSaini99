@@ -26,6 +26,9 @@
         <a href="https://github.com/YashSaini99?tab=repositories" target="_blank"><img alt="React"
                         src="https://img.shields.io/badge/-React-3776AB?style=flat-square&logo=React&logoColor=white">
         </a>
+        <a href="https://github.com/YashSaini99?tab=repositories" target="_blank"><img alt="React"
+                        src="https://img.shields.io/badge/node.js-14.17.0-brightgreen)?style=flat-square&logo=React&logoColor=white">
+        </a>
         <!-- HTML -->
         <a href="https://github.com/YashSaini99?tab=repositories" target="_blank"><img alt="HTML"
                         src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
