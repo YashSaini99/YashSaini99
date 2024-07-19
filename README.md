@@ -1,7 +1,7 @@
 
 
  <h1 align="center">
-        <samp>&gt; <img src="https://img.icons8.com/?size=100&id=6ERxc5PYbRTJ&format=png&color=000000" height="30" width="30" /> Hello World!, I am
+        <samp>&gt; <img src="https://img.icons8.com/?size=100&id=81250&format=png&color=000000" height="30" width="30" /> Hello World!, I am
                 <b><a target="_blank" href="https://yashhh.netlify.app/">Yash</a></b>
         </samp>
 </h1>
