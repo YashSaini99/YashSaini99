@@ -48,7 +48,7 @@
     </a>
 </p>
 
-## 📊 My Github Stats
+## 📊 <img src="https://img.icons8.com/?size=100&id=65177&format=png&color=000000" height="30" width="30" /> My Github Stats
 
   <br/>
     <a href="https://github.com/YashSaini99/github-readme-stats"><img alt="Yash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=YashSaini99&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
