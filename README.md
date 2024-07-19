@@ -35,10 +35,6 @@
         <a href="https://github.com/YashSaini99?tab=repositories" target="_blank"><img alt="JavaScript"
                         src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
         </a>
-        <!-- Python -->
-        <a href="https://github.com/YashSaini99?tab=repositories" target="_blank"><img alt="Python"
-                        src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
-        </a>
         <a href="https://github.com/YashSaini99?tab=repositories" target="_blank"><img alt="Git"
                         src="https://img.shields.io/badge/-Git-E34F26?style=flat-square&logo=Git&logoColor=white">
         </a>
