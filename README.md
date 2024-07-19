@@ -16,7 +16,7 @@
 - 🌐 Visit **[Website](https://yashhh.netlify.app/)** For More Info
 - 👨🏼‍🎓 I am Currently a Student and Learning New things
 
-## 🚀 Languages and Tools:
+## 🚀 <img src="https://img.icons8.com/?size=100&id=H1WCRZJJyAaw&format=png&color=000000" height="30" width="30" /> Languages and Tools:
 
 <p align="left"> 
         </a>
