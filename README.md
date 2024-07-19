@@ -19,9 +19,6 @@
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
-   <a href="https://github.com/YashSaini99?tab=repositories" target="_blank"><img alt="Code"
-                        src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white">
-        </a>
         </a>
         <a href="https://github.com/YashSaini99?tab=repositories" target="_blank"><img alt="React"
                         src="https://img.shields.io/badge/-React-3776AB?style=flat-square&logo=React&logoColor=white">
