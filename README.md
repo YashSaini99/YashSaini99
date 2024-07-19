@@ -62,7 +62,7 @@
 ## ⚡Connect with me:
 <p align="left">
 
-<a href = "https://twitter.com/YashSainii99"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" height="40" width="40"/></a>
+<a href = "https://twitter.com/YashSainii99"><img src="https://img.icons8.com/fluent/48/000000/x.png" height="40" width="40"/></a>
 <a href = "https://www.linkedin.com/in/yash-saini-3aab02250/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" height="40" width="40"/></a>
 <a href="https://dev.to/@yashsaini" target="blank"><img src="https://img.icons8.com/color/48/000000/devpost.png" alt="@yashsaini" height="40" width="40"/></a>
 <a href="https://discord.gg/https://discord.gg/eJEBv7mRuJ" target="blank"><img src="https://cdn.discordapp.com/emojis/874682057937260544.png?v=1" width="40" height="40"/></a>
