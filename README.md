@@ -59,7 +59,7 @@
 <br/>
 <br/>
 
-## ⚡ <img src="https://img.icons8.com/?size=100&id=yTaZlgiVGw8e&format=png&color=000000" height="30" width="30" /> Connect with me:
+## <img src="https://img.icons8.com/?size=100&id=yTaZlgiVGw8e&format=png&color=000000" height="30" width="30" /> Connect with me:
 <p align="left">
 
 <a href = "https://twitter.com/YashSainii99"><img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" height="40" width="40" /></a>
