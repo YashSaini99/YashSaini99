@@ -68,7 +68,7 @@
 <a href="https://discord.gg/https://discord.gg/eJEBv7mRuJ" target="blank"><img src="https://cdn.discordapp.com/emojis/874682057937260544.png?v=1" width="40" height="40"/></a>
 </p>
 
-## 🔥Views and Followers
+## <img src="https://img.icons8.com/?size=100&id=pGJ9az9ImstN&format=png&color=000000" height="30" width="30" /> Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=YashSaini99">
 </a>
