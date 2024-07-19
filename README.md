@@ -8,7 +8,7 @@
 <h3 align="center">A Student and a Developer</h3>
 
 
-## <img src="https://img.icons8.com/?size=100&id=SbAibtcOMK9Q&format=png&color=000000" height="40" width="40" /> About Me
+## <img src="https://img.icons8.com/?size=100&id=SbAibtcOMK9Q&format=png&color=000000" height="30" width="30" /> About Me
 
 - 📝 I’m currently learning **JavaScript**
 - 📩 Contact me on **[Discord](https://discord.gg/eJEBv7mRuJ)**
