@@ -27,10 +27,6 @@
         <a href="https://github.com/YashSaini99?tab=repositories" target="_blank"><img alt="HTML"
                         src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
         </a>
-        <!-- NODEJS -->
-         <a href="https://github.com/YashSaini99?tab=repositories" target="_blank"><img alt="HTML"
-                        src="https://img.shields.io/badge/Node.js-5FA04E.svg?style=for-the-badge&logo=nodedotjs&logoColor=white">
-        </a>
         <!-- CSS  -->
         <a href="https://github.com/YashSaini99?tab=repositories" target="_blank"><img alt="CSS"
                         src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
