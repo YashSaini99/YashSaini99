@@ -10,7 +10,7 @@
 
 ## <img src="https://img.icons8.com/?size=100&id=SbAibtcOMK9Q&format=png&color=000000" height="30" width="30" /> About Me
 
-- 📝 I’m currently learning **JavaScript**
+- 📝 I’m currently learning **JavaScript** and **Go**
 - 📩 Contact me on **[Discord](https://discord.gg/eJEBv7mRuJ)**
 - ⚡ Fun fact: I Code
 - 🌐 Visit **[Website](https://yashhh.netlify.app/)** For More Info
