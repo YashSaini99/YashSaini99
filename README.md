@@ -33,10 +33,25 @@
         </a>
         <!-- JavaScript -->
         <a href="https://github.com/YashSaini99?tab=repositories" target="_blank"><img alt="JavaScript"
-                        src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+                        src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
         </a>
         <a href="https://github.com/YashSaini99?tab=repositories" target="_blank"><img alt="Git"
                         src="https://img.shields.io/badge/-Git-E34F26?style=flat-square&logo=Git&logoColor=white">
+        </a>
+        <a href="https://github.com/YashSaini99?tab=repositories" target="_blank"><img alt="Go"
+                        src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white">
+        </a>
+        <a href="https://github.com/YashSaini99?tab=repositories" target="_blank"><img alt="Docker"
+                        src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
+        </a>
+        <a href="https://github.com/YashSaini99?tab=repositories" target="_blank"><img alt="Kubernetes"
+                        src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white">
+        </a>
+        <a href="https://github.com/YashSaini99?tab=repositories" target="_blank"><img alt="MongoDB"
+                        src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=Mongodb&logoColor=white">
+        </a>
+        <a href="https://github.com/YashSaini99?tab=repositories" target="_blank"><img alt="Linux"
+                        src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black">
         </a>
 </p>
 
@@ -62,7 +77,7 @@
 ## <img src="https://img.icons8.com/?size=100&id=yTaZlgiVGw8e&format=png&color=000000" height="30" width="30" /> Connect with me:
 <p align="left">
 
-<a href = "https://twitter.com/YashSainii99"><img src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000" height="40" width="40" /></a>
+<a href = "https://twitter.com/YashSainii99"><img src="https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000" height="40" width="40" /></a>
 <a href = "https://www.linkedin.com/in/yash-saini-3aab02250/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" height="40" width="40"/></a>
 <a href="https://dev.to/@yashsaini" target="blank"><img src="https://img.icons8.com/color/48/000000/devpost.png" alt="@yashsaini" height="40" width="40"/></a>
 <a href="https://discord.gg/https://discord.gg/eJEBv7mRuJ" target="blank"><img src="https://cdn.discordapp.com/emojis/874682057937260544.png?v=1" width="40" height="40"/></a>
